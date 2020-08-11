@@ -1,0 +1,12 @@
+.DS_Store
+*~
+target
+project/target
+
+.idea
+.bloop
+.metals
+project/.bloop
+
+# Various tmp files
+tmp_scripts
